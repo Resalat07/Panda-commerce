@@ -1,4 +1,11 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@400;500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
 
 .background{
     background-color:#FEEAE9 ;
@@ -6,4 +13,8 @@
 
 .catagoris img{
     width: 100px;
+}
+
+.text-color{
+    color: grey;
 }
